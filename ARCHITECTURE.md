@@ -25,6 +25,7 @@ Points to consider before introducing a new feature:
 - community_material_icon: A Flutter package providing access to the Community Material Icons font
 - google_fonts: A Flutter package for easy integration of Google Fonts
 - flutter_svg: A Flutter plugin for rendering SVG files
+- responsive_builder: A Flutter plugin for simple management reponsive screen
 
 #
 
