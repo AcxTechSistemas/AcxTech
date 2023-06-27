@@ -20,15 +20,8 @@ Points to consider before introducing a new feature:
 
 ## Design Patterns
 
-- Dependency Injection: Resolve class dependencies.
 
 #
 
 ## External packages
 
-- url_launcher: A Flutter plugin for launching URLs
-- flutter_modular: A module-based architecture framework for Flutter
-- community_material_icon: A Flutter package providing access to the Community Material Icons font
-- flutter_svg: A Flutter plugin for rendering SVG files
-- google_fonts: A Flutter package for easy integration of Google Fonts
-- responsive_builder: A Flutter plugin for simple management reponsive screen
